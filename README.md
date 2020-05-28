@@ -5,4 +5,5 @@
 Code from the course: **"Creando White-Labeling apps con Xamarin.Forms"**.
 
 [Link to Meetup Event](https://www.meetup.com/dotnetters/events/270667091/)
+
 [Link to YouTube video](https://www.youtube.com/watch?v=xqdGauEQUHU)
